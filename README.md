@@ -1,2 +1,2 @@
-# homework1
+# Coderefactoring
  Mini-Project: CSS Snippet Cheat Sheet
